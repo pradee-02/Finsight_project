@@ -1,0 +1,6 @@
+{
+  "name": "FinSight",
+  "description": "Personal Finance & Investment Intelligence Platform, featuring core finance management, expense tracking, budget creation, investment portfolio tracking, financial goal planning, and a project milestone progress tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

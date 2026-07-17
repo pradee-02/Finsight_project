@@ -1,0 +1,153 @@
+{
+  "users": {
+    "rspradeeba@gmail.com": {
+      "full_name": "Pradee",
+      "email": "rspradeeba@gmail.com",
+      "monthly_income": 50000.0,
+      "currency": "INR",
+      "profile_picture": "",
+      "password_hash": "$2b$12$VkQFMWNWtINEpo9wWkkk4eKc9D6GCvMyIyI0aZSpHM2zSLH8wKlHW",
+      "security_question": "What was the name of your first school?",
+      "security_answer_hash": "$2b$12$VkQFMWNWtINEpo9wWkkk4ee1G9ecuKcv7mkWhJH.J8mbD82jO9.v.",
+      "created_at": "2026-07-14T14:43:05.340958"
+    },
+    "pradeebars@karunya.edu.in": {
+      "full_name": "Pradeepa",
+      "email": "pradeebars@karunya.edu.in",
+      "monthly_income": 50000.0,
+      "currency": "INR",
+      "profile_picture": "",
+      "password_hash": "$2b$12$t55MZ4KjwRh2LEYAqx4dAO6jLLRpKHxzWCrfpYy.V1T26802K8DwK",
+      "security_question": "What was the name of your first school?",
+      "security_answer_hash": "$2b$12$gvNr98NvEt8AVUNmM7zyi.Ke8nWMWrVL7zzexB7TmxIXwAmiEM6g2",
+      "created_at": "2026-07-14T15:14:11.890381"
+    }
+  },
+  "transactions": [
+    {
+      "user_id": "pradeebars@karunya.edu.in",
+      "description": "Shopping",
+      "amount": 5000.0,
+      "category": "Housing",
+      "type": "Expense",
+      "date": "2026-07-14",
+      "payment_mode": "Cash",
+      "account_id": "acc_1784022368454",
+      "created_at": "2026-07-14T15:16:30.267799",
+      "id": "tx_1784022390268"
+    },
+    {
+      "user_id": "pradeebars@karunya.edu.in",
+      "description": "Salary",
+      "amount": 45000.0,
+      "category": "Salary",
+      "type": "Income",
+      "date": "2026-07-14",
+      "payment_mode": "Cash",
+      "account_id": "acc_1784022368454",
+      "created_at": "2026-07-14T15:17:07.332313",
+      "id": "tx_1784022427334"
+    },
+    {
+      "user_id": "pradeebars@karunya.edu.in",
+      "description": "food",
+      "amount": 500.0,
+      "category": "Salary",
+      "type": "Expense",
+      "date": "2026-07-14",
+      "payment_mode": "Cash",
+      "account_id": "acc_1784022368454",
+      "created_at": "2026-07-14T15:17:42.687388",
+      "id": "tx_1784022462696"
+    },
+    {
+      "user_id": "pradeebars@karunya.edu.in",
+      "description": "Shopping",
+      "amount": 4000.0,
+      "category": "Shopping",
+      "type": "Expense",
+      "date": "2026-07-14",
+      "payment_mode": "UPI",
+      "account_id": "acc_1784022368454",
+      "created_at": "2026-07-14T16:01:07.403421",
+      "id": "tx_1784025067405"
+    }
+  ],
+  "budgets": [
+    {
+      "user_id": "pradeebars@karunya.edu.in",
+      "category": "Food & Dining",
+      "amount": 500.0,
+      "month": "2026-07",
+      "created_at": "2026-07-14T15:17:21.984664",
+      "id": "b_1784022441985"
+    }
+  ],
+  "investments": [
+    {
+      "user_id": "pradeebars@karunya.edu.in",
+      "symbol": "APPL",
+      "name": "Asset",
+      "units": 20.0,
+      "purchasePrice": 50000.0,
+      "currentPrice": 100000.0,
+      "category": "Mutual Funds",
+      "investedValue": 1000000.0,
+      "currentValue": 2000000.0,
+      "returnsValue": 1000000.0,
+      "returnsPercent": 100.0,
+      "created_at": "2026-07-14T15:18:31.372724",
+      "id": "inv_1784022511374"
+    },
+    {
+      "user_id": "pradeebars@karunya.edu.in",
+      "symbol": "APPL",
+      "name": "Asset",
+      "units": 50.0,
+      "purchasePrice": 12000.0,
+      "currentPrice": 20000.0,
+      "category": "Bonds",
+      "investedValue": 600000.0,
+      "currentValue": 1000000.0,
+      "returnsValue": 400000.0,
+      "returnsPercent": 66.67,
+      "created_at": "2026-07-17T14:59:35.773695",
+      "id": "inv_1784280575774"
+    }
+  ],
+  "goals": [
+    {
+      "user_id": "pradeebars@karunya.edu.in",
+      "title": "Laptop",
+      "targetAmount": 100000.0,
+      "currentAmount": 35500.0,
+      "targetDate": "2027-09-16",
+      "category": "Custom",
+      "status": "In Progress",
+      "created_at": "2026-07-17T14:46:21.146451",
+      "id": "g_1784279781146"
+    },
+    {
+      "user_id": "pradeebars@karunya.edu.in",
+      "title": "car",
+      "targetAmount": 500000.0,
+      "currentAmount": 36000.0,
+      "targetDate": "2027-12-17",
+      "category": "Vehicle Purchase",
+      "status": "In Progress",
+      "created_at": "2026-07-17T15:00:25.408365",
+      "id": "g_1784280625410"
+    }
+  ],
+  "accounts": [
+    {
+      "user_id": "pradeebars@karunya.edu.in",
+      "name": "Account",
+      "type": "Cash / Wallet",
+      "bank_name": "Indian bank",
+      "balance": 100000.0,
+      "created_at": "2026-07-14T15:16:08.451230",
+      "id": "acc_1784022368454"
+    }
+  ]
+}
