@@ -274,9 +274,8 @@ Total Returns = Total Portfolio Value − Total Invested Capital
 
 # 👨‍💻 Author
 
-**Your Name**
+# PRADEEBA R S
 
-Bachelor of Computer Applications (BCA)
 
 **Project Title:** FinSight – Financial Intelligence Platform
 
